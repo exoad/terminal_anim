@@ -4,6 +4,17 @@
   <video src="https://github.com/user-attachments/assets/cdc5bf52-caff-480c-afc1-52db29b3074c" width="900" />
 </div>
 
+## how
+
+```shell
+git clone https://github.com/exoad/terminal_anim.git
+cd terminal_anim
+go build .
+./terminal_anim
+```
+
+## what
+
 Go - renderer (primary host)
 
 Lua - scripting languages that are loaded.
