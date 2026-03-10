@@ -1,7 +1,7 @@
 <div align="center">
   <h1>terminal_anim</h1>
   <em>terminal graphics using Lua and Go</em>
-  <video src="demo.mp4" controls width="900"></video>
+  <video src="res/terminal_anim.webm" controls width="900"></video>
 </div>
 
 Go - renderer (primary host)
